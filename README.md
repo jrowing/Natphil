@@ -1,5 +1,5 @@
-# eruditely
+This is as Jekyll theme built to make single page websites, articles, or literary masterpieces readable anywhere.
 
-adjective. 1. characterized by great knowledge; learned or scholarly: an erudite professor; an erudite commentary. 
+### [Demo and Documentation](https://adueck.github.io/good-clean-read)
 
-Synonyms: educated, knowledgeable; wise, sapient.
+Built on top of <a href="http://chibicode.github.io/solo">Solo</a>, by [Shu Uesugi](https://github.com/chibicode)
